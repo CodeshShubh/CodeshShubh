@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hello! Welcome to My GitHub Profile!
 
-<!--
-**CodeshShubh/CodeshShubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 I’m currently working on: A MERN Stack vehicle tracking app.
+- 🌱 I’m learning: React, MongoDB, Node.js, and data visualization.
+- 💬 Ask me about: JavaScript, React, or anything web development-related!
+- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- **Languages**: JavaScript, Python, C++
+- **Frameworks**: React, Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, Docker, VS Code
+
+### 🏆 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 📝 Featured Projects
+- [Project 1: Vehicle Tracker](https://github.com/yourusername/vehicle-tracker)
+- [Project 2: Portfolio Website](https://github.com/yourusername/portfolio)
+
+### 🌐 Connect With Me
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
