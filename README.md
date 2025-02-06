@@ -26,11 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -72,12 +70,12 @@ All mini projects available at [yourusername.github.io](https://yourusername.git
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg?style=flat-square&logo=twitter)](https://twitter.com/yourusername) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubhanshu-saadhiyaaan-26b728269/) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg?style=flat-square&logo=twitter)](https://twitter.com/saadhiyaaan) 
 [![Medium](https://img.shields.io/badge/Medium-Read-orange.svg?style=flat-square&logo=medium)](https://medium.com/@yourusername)
 
 --- 
 
 ### 💡 Quote of the Day
-> "The best way to predict the future is to create it." - Alan Kay
-<p align="right"><sub>Generated with ❤️ by <a href="https://github.com/yourusername">Your Name</a></sub></p>
+> "The best way to predict the future is to create it."
+<p align="right"><sub>Generated with ❤️ by <a href="https://github.com/yourusername">Shubhanshu Saadhiyaan</a></sub></p>
