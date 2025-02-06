@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=CodeshShubh&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/CodeshShubh?style=flat-square&logo=github" alt="GitHub Followers">
 </p>
 
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=CODESHSHUBH&theme=beach&show_icons=true&include_all_commits=true&title=Your%20Name&description=Your%20GitHub%20Stats)](https://github.com/max1mde/fancy-readme-stats)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=CodeshShubh&theme=beach&show_icons=true&include_all_commits=true&title=Your%20Name&description=Your%20GitHub%20Stats)](https://github.com/max1mde/fancy-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeshShubh&show_icons=true&theme=react&count_private=true)
 
