@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github" alt="GitHub Followers">
 </p>
 
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=CodeshShubh&theme=beach&show_icons=true&include_all_commits=true)](https://github.com/max1mde/fancy-readme-stats)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=CODESHSHUBH&theme=beach&show_icons=true&include_all_commits=true&title=Your%20Name&description=Your%20GitHub%20Stats)](https://github.com/max1mde/fancy-readme-stats)
 ---
 
 ### 👨‍💻 Languages & Tools 🛠️
