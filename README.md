@@ -1,4 +1,4 @@
-# 🌟 Tech Maverick | MERN Developer | Automation Wizard 🔥
+# 🌟 Shubhanshu Saadhiyaan | MERN Developer 🔥
 ![GitHub Banner](https://raw.githubusercontent.com/yourusername/assets/main/banner.svg)
 <p align="center">
   <a href="https://linkedin.com/in/yourusername">
