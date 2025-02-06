@@ -16,16 +16,8 @@
 
 [![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=CODESHSHUBH&theme=beach&show_icons=true&include_all_commits=true&title=Shubhanshu%Saadhiyaan&description=Your%20GitHub%20Stats)](https://github.com/max1mde/fancy-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeshShubh&show_icons=true&theme=react&count_private=true)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeshShubh&theme=react)
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeshShubh&layout=compact&theme=react)
-
-
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=CodeshShubh&show_icons=true&theme=react)
 
 ---
 
