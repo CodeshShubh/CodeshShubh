@@ -1,10 +1,10 @@
 # 🌟 Shubhanshu Saadhiyaan | MERN Developer 🔥
 ![GitHub Banner](https://raw.githubusercontent.com/CodeshShubh/assets/main/banner.svg)
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/shubhanshu-saadhiyaaan-26b728269">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:contact@yourdomain.com">
+  <a href="mailto:shubhanshu.saadhiyaan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red.svg?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github" alt="GitHub Followers">
 </p>
 
-![Your Profile Summary](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&count_private=true)
+![Your Profile Summary](https://github-readme-stats.vercel.app/api?CodeshShubh=CodeshShubh&show_icons=true&theme=react&count_private=true)
 
 ---
 
@@ -35,12 +35,12 @@
 
 ### 🚀 Featured Projects
 #### 🌐 **React Portfolio Website** [ produktly.com ] - Live ✨
-[![React Portfolio](https://github.com/yourusername/react-portfolio/blob/main/screenshot.png?raw=true)](https://produktly.com)
+[![React Portfolio](https://github.com/CodeshShubh/react-portfolio/blob/main/screenshot.png?raw=true)](https://produktly.com)
 - Built with React, TypeScript, and Tailwind CSS
 - Features personal projects, blog, contact form, and resume download
 
 #### 🕹️ **Game Budapest Casino Bot** 
-[![Game Bot](https://github.com/yourusername/game-budapest-bot/blob/main/bot.gif?raw=true)](https://github.com/yourusername/game-budapest-bot)
+[![Game Bot](https://github.com/CodeshShubh/game-budapest-bot/blob/main/bot.gif?raw=true)](https://github.com/yourusername/game-budapest-bot)
 - Automated game bot using Puppeteer and AI APIs
 - Achieved 100% game success rate within terms of service
 
@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&langs_count=10" alt="Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&exclude_days=Sunday" alt="Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?CodeshShubh=CodeshShubh&layout=compact&theme=react&langs_count=10" alt="Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeshShubh&theme=react&exclude_days=Sunday" alt="Streak">
 </p>
 
 ---
