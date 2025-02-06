@@ -14,8 +14,7 @@
   <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github" alt="GitHub Followers">
 </p>
 
-![Your Profile Summary](https://github-readme-stats.vercel.app/api?CodeshShubh=CodeshShubh&show_icons=true&theme=react&count_private=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeshShubh&show_icons=true&theme=react&count_private=true)
 ---
 
 ### 👨‍💻 Languages & Tools 🛠️
