@@ -35,6 +35,7 @@
   <img src="https://raw.githubusercontent.com/CodeshShubh/icons/main/firebase.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/CodeshShubh/icons/main/pwa.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/CodeshShubh/icons/main/ejs.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/CodeshShubh/icons/main/styled-components.png" width="40" height="40"/>
 </p>
 
 ---
