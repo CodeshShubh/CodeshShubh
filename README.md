@@ -55,8 +55,6 @@
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeshShubh&layout=compact&theme=react&langs_count=10" alt="Languages">
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeshShubh&theme=react&exclude_days=Sunday" alt="Streak">
 </p>
 ---
 
