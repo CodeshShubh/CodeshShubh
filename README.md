@@ -1,5 +1,4 @@
 # 🌟 Shubhanshu Saadhiyaan | MERN Developer 🔥
-![GitHub Banner](https://raw.githubusercontent.com/CodeshShubh/assets/main/banner.svg)
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhanshu-saadhiyaaan-26b728269">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin" alt="LinkedIn">
