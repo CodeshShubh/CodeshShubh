@@ -1,4 +1,5 @@
 # 🌟 Shubhanshu Saadhiyaan | MERN Developer 🔥
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhanshu-saadhiyaaan-26b728269">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -15,7 +16,6 @@
 
 [![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=CODESHSHUBH&theme=beach&show_icons=true&include_all_commits=true&title=Shubhanshu%Saadhiyaan&description=Your%20GitHub%20Stats)](https://github.com/max1mde/fancy-readme-stats)
 
-
 ---
 
 ### 👨‍💻 Languages & Tools 🛠️
@@ -23,11 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/CodeshShubh/icons/main/firebase.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/CodeshShubh/icons/main/pwa.png" width="40" height="40"/>
@@ -38,48 +37,57 @@
 ---
 
 ### 🚀 Featured Projects
-#### 🌐 **React Portfolio Website** [ produktly.com ] - Live ✨
-[![React Portfolio](https://github.com/CodeshShubh/react-portfolio/blob/main/screenshot.png?raw=true)](https://produktly.com)
-- Built with React, TypeScript, and Tailwind CSS
-- Features personal projects, blog, contact form, and resume download
 
-#### 🕹️ **Game Budapest Casino Bot** 
-[![Game Bot](https://github.com/CodeshShubh/game-budapest-bot/blob/main/bot.gif?raw=true)](https://github.com/yourusername/game-budapest-bot)
-- Automated game bot using Puppeteer and AI APIs
-- Achieved 100% game success rate within terms of service
+#### 🚚 **Yellow Truck Company Website** [Visit Website](https://yellowtruck.in/)
+- Built a logistics company website and enhanced it into a **Progressive Web App (PWA)** with **manifest.json** and **service workers**.
+- Converted the web app into an installable Android app using **PWABuilder**, generated **.aab** file, and published on **Google Play Console**.
+- Delivered offline access, faster loading, and mobile-friendly experience using **HTML, CSS, JavaScript**.
+
+#### 🏛️ **Artnovation Architectural Portfolio Website** [Visit Website](https://artnovation.in/)
+- Developed a **responsive service portfolio website** using **HTML, CSS, JavaScript**.
+- Focused on clean, professional design with optimal user experience across devices.
+
+#### 🛒 **E-Commerce Web App (CodeCraftin)** [Visit Website](https://codecraftin.netlify.app/)
+- Developed a full-stack **E-Learning platform** with **React.js, Node.js, Express.js, MongoDB**.
+- Built a secure **admin dashboard** using **Chart.js** to track **video views, subscriptions, course metrics**.
+- Integrated **Razorpay** for payments, **Cloudinary** for media storage, and **Mailtrap** for testing emails.
+- Implemented **JWT authentication**, password reset APIs, and **Redux** for state management.
+- Deployed **frontend on Netlify** and **backend on Render**.
+
+---
+
+### 📚 Mini Projects 🎉
+### 📚 Mini Projects 🎉
+- **Physics Preparation E-Learning Platform**: [physicsprepration.netlify.app](https://physicsprepration.netlify.app)
+- **E-Commerce Website (ShopMe)**: [shopme-shubhanshu.netlify.app](https://shopme-shubhanshu.netlify.app)
+- **The Bollywood Cafe Website**: [thebollywoodcafe.netlify.app](https://thebollywoodcafe.netlify.app)
+- **Instagram Web Clone**: [shubhanshu-saadhiyaan-insta-gram.netlify.app](https://shubhanshu-saadhiyaan-insta-gram.netlify.app)
+- **Quiz Application**: [quiz-application-shubhanshusaadhiyaan.netlify.app](https://quiz-application-shubhanshusaadhiyaan.netlify.app)
+
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeshShubh&layout=compact&theme=react&langs_count=10" alt="Languages">
-  
 </p>
----
-
-### 📚 Mini Projects 🎉
-- **AI Chatbot**: Next.js app with integrated AI APIs
-- **E-Commerce Scraper**: Custom web crawler using Cheerio
-- **QR Code Generator**: React component with dropdown options
-- **Platzi Video Downloader**: Node script for bulk video extraction
-- **Parallax Carousel**: Vanilla JS scroll animation
-- **Chart Generator**: Data visualization using recharts
-- **Color Palette Generator**: HSL color manipulation
-- **Todo App**: PWA with local storage
-- **Tetris Clone**: Arcade game in vanilla JavaScript
-
-All mini projects available at [yourusername.github.io](https://yourusername.github.io/mini-projects)
 
 ---
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubhanshu-saadhiyaaan-26b728269/) 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg?style=flat-square&logo=twitter)](https://twitter.com/saadhiyaaan) 
-[![Medium](https://img.shields.io/badge/Medium-Read-orange.svg?style=flat-square&logo=medium)](https://medium.com/@yourusername)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg?style=flat-square&logo=gmail)](mailto:shubhanshu.saadhiyaan@gmail.com)
 
---- 
+---
+
+### 💬 Contact
+📞 **Mobile**: 7060821855  
+📧 **Email**: shubhanshu.saadhiyaan@gmail.com
+
+---
 
 ### 💡 Quote of the Day
 > "The best way to predict the future is to create it."
-<p align="right"><sub>Generated with ❤️ by <a href="https://github.com/yourusername">Shubhanshu Saadhiyaan</a></sub></p>
+
+<p align="right"><sub>Generated with ❤️ by <a href="https://github.com/CodeshShubh">Shubhanshu Saadhiyaan</a></sub></p>
