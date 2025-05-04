@@ -59,7 +59,7 @@
 ### 📚 Mini Projects 🎉
 ### 📚 Mini Projects 🎉
 - **Physics Preparation E-Learning Platform**: [physicsprepration.netlify.app](https://physicsprepration.netlify.app)
-- **E-Commerce Website (ShopMe)**: [shopme-shubhanshu.netlify.app](https://shopme-shubhanshu.netlify.app)
+- **E-Learning Website (ShopMe)**: [shopme-shubhanshu.netlify.app](https://shopme-shubhanshu.netlify.app)
 - **The Bollywood Cafe Website**: [thebollywoodcafe.netlify.app](https://thebollywoodcafe.netlify.app)
 - **Instagram Web Clone**: [shubhanshu-saadhiyaan-insta-gram.netlify.app](https://shubhanshu-saadhiyaan-insta-gram.netlify.app)
 - **Quiz Application**: [quiz-application-shubhanshusaadhiyaan.netlify.app](https://quiz-application-shubhanshusaadhiyaan.netlify.app)
