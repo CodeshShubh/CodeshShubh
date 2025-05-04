@@ -47,7 +47,7 @@
 - Developed a **responsive service portfolio website** using **HTML, CSS, JavaScript**.
 - Focused on clean, professional design with optimal user experience across devices.
 
-#### 🛒 **E-Commerce Web App (CodeCraftin)** [Visit Website](https://codecraftin.netlify.app/)
+#### 🛒 **E-Learning Web App (CodeCraftin)** [Visit Website](https://codecraftin.netlify.app/)
 - Developed a full-stack **E-Learning platform** with **React.js, Node.js, Express.js, MongoDB**.
 - Built a secure **admin dashboard** using **Chart.js** to track **video views, subscriptions, course metrics**.
 - Integrated **Razorpay** for payments, **Cloudinary** for media storage, and **Mailtrap** for testing emails.
